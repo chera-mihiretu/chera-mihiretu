@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 # 💫 About Me:
 I'am currently learning at Adama Science and Technology University <br>I'am currently working on mobile development
 
